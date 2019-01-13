@@ -1,0 +1,5 @@
+function math(pun, cun, run){
+  var nun = cun * run;
+  return nun + pun;
+}
+console.log(math(53, 61, 67));
